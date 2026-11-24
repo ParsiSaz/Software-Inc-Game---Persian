@@ -16,3 +16,12 @@ Desktop.ini
 *.log
 Cache/
 Temp/
+
+# Local AI scaffolding
+.ai/
+.claude/
+.cursor/
+.gemini/
+.agents/
+AGENTS.md
+GEMINI.md
